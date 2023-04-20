@@ -1,5 +1,7 @@
 body {
         background-color: rgb(156, 76, 0);
         color:azure
-        
+        padding: 30px;
+        font-family: 'Tangerine', serif;
+        font-size: 48px;
 }
